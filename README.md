@@ -18,18 +18,19 @@ touch .prettierrc
   "semi": true,
   "experimentalTernaries": false,
   "singleQuote": true,
-  "jsxSingleQuote": false,
+  "jsxSingleQuote": true,
   "quoteProps": "as-needed",
   "trailingComma": "all",
-  "singleAttributePerLine": false,
+  "singleAttributePerLine": true,
   "htmlWhitespaceSensitivity": "css",
   "vueIndentScriptAndStyle": false,
-  "proseWrap": "preserve",
+  "proseWrap": "never",
   "insertPragma": false,
-  "printWidth": 120,
+  "printWidth": 80,
   "requirePragma": false,
   "tabWidth": 2,
   "useTabs": false,
-  "embeddedLanguageFormatting": "auto"
+  "embeddedLanguageFormatting": "off"
 }
+
 ```
